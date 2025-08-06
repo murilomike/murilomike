@@ -7,7 +7,17 @@
 
 _Transformando dados em insights acionáveis e problemas cotidianos em soluções inovadoras_
 
-[Linkedin](https://www.linkedin.com/in/murilo-souza-dba/) [Portólio](https://lightertracker-ypqxmlg.gamma.site/)
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/murilo-souza-dba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://lightertracker-ypqxmlg.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-1E1E1E?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+  </a>
+
+</div>
 
 </div>
 
@@ -43,6 +53,25 @@ Transformei a simples pergunta "Por que sempre perco meus isqueiros?" em um proj
 **🛠️ Stack Tecnológica**:
 Python • SQL Server • MongoDB • Scikit-Learn • Streamlit • Telegram API
 
+<div align="center">
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+  <!-- Scikit-Learn -->
+  <img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Scikit-Learn" width="40" />
+  
+  <!-- Telegram API -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram API" width="40" />
+
+</div>
+
 💼 Experiência Profissional
 
  - **🎓 Educação Tecnológica (6+ anos)** Instrutor de TI - IFP & ENNET Resultados: 30% crescimento na receita, 80% frequência nas turmas
@@ -55,27 +84,43 @@ Python • SQL Server • MongoDB • Scikit-Learn • Streamlit • Telegram AP
    processos
 
 
+
+
 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <!-- Linguagens mais usadas -->
+  <a href="https://github.com/murilomike">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomike&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+
+  <!-- Estatísticas gerais -->
+  <a href="https://github.com/murilomike">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilomike&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+
 </div>
 
-🎯 Objetivos Atuais
 
-🔍 Buscando oportunidades como Cientista de Dados Júnior ou Estagiário em Dados
-📚 Aprofundando conhecimentos em Machine Learning e Deep Learning
-🚀 Expandindo o LighterTracker para outros objetos e aplicações comerciais
-🌟 Contribuindo para projetos open source em Data Science
+## 🎯 Objetivos Atuais
 
+-   🔍 **Buscando oportunidades** como Cientista de Dados Júnior ou Estagiário em Dados
+-   📚 **Aprofundando conhecimentos** em Machine Learning e Deep Learning
+-   🚀 **Expandindo o LighterTracker** para outros objetos e aplicações comerciais
+-   🌟 **Contribuindo** para projetos open source em Data Science
 
-💬 Vamos conversar?
-Estou sempre aberto a discussões sobre Ciência de Dados, Tecnologia Educacional e projetos inovadores!
+----------
+
+## 💬 Vamos conversar?
+
+Estou sempre aberto a discussões sobre **Ciência de Dados**, **Tecnologia Educacional** e **projetos inovadores**!
+
 <div align="center">
-📧 murilomike@outlook.com • 📍 Brasília, DF • 📱 (61) 9290-8351
-"Transformando curiosidade em Ciência de Dados, um projeto por vez."
+
+📧 **[murilomike@outlook.com](mailto:murilomike@outlook.com)** • 📍 **Brasília, DF** • 📱 **(61) 9290-8351**
+
+_"Transformando curiosidade em Ciência de Dados, um projeto por vez."_
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+----------
