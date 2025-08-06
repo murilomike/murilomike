@@ -83,6 +83,17 @@ Python • SQL Server • MongoDB • Scikit-Learn • Streamlit • Telegram AP
  - **🔧 Administração e TI** Tribunal de Justiça-GO - Gestão administrativa e TI Manutenção de equipamentos e organização de   
    processos
 
+## 🏅 Badges da Alura
+
+<div align="center">
+
+  <img src="https://github.com/murilomike/murilomike/blob/main/Badges%20da%20Alura/challenge-datascience.webp" width="150" alt="Badge Data Science">
+  <img src="https://github.com/murilomike/murilomike/blob/main/Badges%20da%20Alura/challenge_datascience.webp" width="150" alt="Badge Data Science 2">
+  <img src="https://github.com/murilomike/murilomike/blob/main/Badges%20da%20Alura/challenge-datascience.jpeg" width="150" alt="Badge Data Science">
+  <img src="https://github.com/murilomike/murilomike/blob/main/Badges%20da%20Alura/challenge-js.jpeg" width="150" alt="Badge JavaScript">
+
+</div>
+
 
 
 
