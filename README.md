@@ -1,10 +1,11 @@
-- 👋 Profissional de Ensino de TI | Estudante de Banco de Dados | Futuro DBA/Cientista de Dados
-- 👀 Desenvolvo projetos com Bancos de Dados usando SQL SERVER | Também ensino Informática e TI
-- 🌱 Graduando em Banco de Dados pela UniCesumar / Ciência de Dados pela Alura
-- 💞️ Apaixonado por Dados, Tecnologia e Inteligência Artificial 
-- 📫 Perfil no X: @murilomike_ 
+# Bem vindo ao meu Data Space
 
-<!---
-murilomike/murilomike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+**🚀 Cientista de Dados em Transição | DBA SQL Server | Especialista em Educação Tecnológica**
+
+_Transformando dados em insights acionáveis e problemas cotidianos em soluções inovadoras_
+
+[Linkedin](https://www.linkedin.com/in/murilo-souza-dba/) [Portólio](https://lightertracker-ypqxmlg.gamma.site/)
+
+</div>
