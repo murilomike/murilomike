@@ -95,24 +95,6 @@ Python • SQL Server • MongoDB • Scikit-Learn • Streamlit • Telegram AP
 </div>
 
 
-
-
-📈 GitHub Stats
-<div align="center">
-
-  <!-- Linguagens mais usadas -->
-  <a href="https://github.com/murilomike">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilomike&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-
-  <!-- Estatísticas gerais -->
-  <a href="https://github.com/murilomike">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilomike&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-
-</div>
-
-
 ## 🎯 Objetivos Atuais
 
 -   🔍 **Buscando oportunidades** como Cientista de Dados Júnior ou Estagiário em Dados
